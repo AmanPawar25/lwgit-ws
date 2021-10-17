@@ -4,3 +4,4 @@ third line by dev1
 fourth line by dev2
 5th line by github
 6th line by github
+7th line by master
